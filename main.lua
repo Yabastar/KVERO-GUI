@@ -26,6 +26,6 @@ while true do
 
 	if luayrange == 1 and luaxrange == 1 then
 		clear()
-		paintutils.drawFilledBox(10, 0, 20, 10, colors.red)
+		paintutils.drawFilledBox(30, 0, 40, 10, colors.red)
 	end
 end		
