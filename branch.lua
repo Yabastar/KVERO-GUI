@@ -1,3 +1,4 @@
+print("KV G 000")
 local function dBWCN(x, y, width, height, name)
   -- Draw the box
   term.setBackgroundColor(colors.gray)
