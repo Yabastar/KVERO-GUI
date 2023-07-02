@@ -1,3 +1,4 @@
+print("draw version 000")
 paintutils.drawFilledBox(0, 0, 100, 100, colors.black)
 paintutils.drawBox(1, 1, 10, 6, colors.blue)
 print("\nLua Term..")
